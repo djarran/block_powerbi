@@ -27,7 +27,7 @@ defined('MOODLE_INTERNAL') || die();
 /**
  * Add JS to bootstrap tours. Only in Moodle 3.3+
  */
-function block_powerbi_before_footer() {
-    global $CFG;
-    return '<script src="'.$CFG->wwwroot.'/blocks/powerbi/js/powerbi.js"></script>';
-}
+/*function block_powerbi_before_footer() {*/
+/*    global $CFG;*/
+/*    return '<script src="'.$CFG->wwwroot.'/blocks/powerbi/js/powerbi.js"></script>';*/
+/*}*/
